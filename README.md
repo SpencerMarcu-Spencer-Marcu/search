@@ -2,7 +2,7 @@
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
+GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo. @SpencerMarcu
 
 Use the table of contents icon <img src="./assets/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.
 
@@ -58,6 +58,6 @@ All other code in this repository is licensed under the [MIT license](LICENSE-CO
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 
-## Thanks :Spencer_Marcu:
+## Thanks :SpencerMarcu:
 
 Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you being part of our :sparkles: community :sparkles:!
