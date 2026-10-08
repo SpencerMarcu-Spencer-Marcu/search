@@ -3,6 +3,7 @@ import App from 'next/app'
 import type { AppProps, AppContext } from 'next/app'
 import Head from 'next/head'
 import { ThemeProvider, ThemeProviderProps, SSRProvider } from '@primer/react'
+import { SpeedInsights } from '@vercel/speed-insights/react'
 
 import '../stylesheets/index.scss'
 
@@ -76,6 +77,7 @@ const MyApp = ({
           </LanguagesContext.Provider>
         </ThemeProvider>
       </SSRProvider>
+      <SpeedInsights />
     </>
   )
 }
